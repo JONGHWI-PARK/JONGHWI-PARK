@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am JongHwi Park from South Korea!
+English name is Jack!
+
 <!--
 **JONGHWI-PARK/JONGHWI-PARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
