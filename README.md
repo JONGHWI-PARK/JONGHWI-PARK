@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am JongHwi Park from South Korea!
+I am JongHwi Park from South Korea! <br>
 English name is Jack!
 
 <!--
